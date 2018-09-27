@@ -719,3 +719,6 @@ v.setHead=1.67937849756,-1.14904867692,1.0
 v.radius=0.1
 v.color=white
 v.spawn
+c=cylinder
+c.position=0,0,0
+c.scale=.1,.1,2
